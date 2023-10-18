@@ -1,3 +1,3 @@
 # zen-day1
- Difference between HTTP1.1 vs HTTP2
- Objects And Its Internal Representation In JavaScript
+ 1.Difference between HTTP1.1 vs HTTP2
+2.Objects And Its Internal Representation In JavaScript
